@@ -1,0 +1,23 @@
+Predmet : Matematika 2
+Predmet : Osnovi Elektronike
+Predmet : Fizika 2
+Dodavanje novog studenta;
+Index : 20039
+Ime : Adel
+Prezime : Sehic
+
+Dodavanje novog studenta;
+Index : 20022
+Ime : Dzemal
+Prezime : Ramic
+
+Dodavanje novog studenta;
+Index : 2001
+Ime : Arslan
+Prezime : Piric
+
+Dodavanje novog studenta;
+Index : 
+Ime : 
+Prezime : 
+
